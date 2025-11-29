@@ -94,7 +94,7 @@ export default function MovieList({ movies }: MovieListProps) {
             }}>
                 <span
                 style={{
-                  color: "##000000A6",
+                  color: "#000000A6",
                   width: "46px",
                   border: "1px solid #D9D9D9",
                   padding: "2px 2px",
@@ -108,7 +108,7 @@ export default function MovieList({ movies }: MovieListProps) {
               </span>
               <span
                 style={{
-                  color: "##000000A6",
+                  color: "#000000A6",
                   width: "46px",
                   backgroundColor:"#FAFAFA",
                   border: "1px solid #D9D9D9",
